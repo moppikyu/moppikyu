@@ -94,22 +94,6 @@ Issued May 2026 · Expires May 2031 · Credential ID `MH6k-s4UH`
 
 </div>
 
-<div align="center">
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-</div>
-
-## ▌ 06 — SYSTEM METRICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moppikyu&show_icons=true&theme=transparent&hide_border=true&title_color=4FD1FF&text_color=8b949e&icon_color=4FD1FF&bg_color=00000000" alt="Operator Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moppikyu&layout=compact&theme=transparent&hide_border=true&title_color=4FD1FF&text_color=8b949e&bg_color=00000000" alt="Top Languages" width="38%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 <sub>— END OF FILE —</sub>
