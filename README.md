@@ -15,7 +15,7 @@
 
 | CLASS | STATUS | INSTITUTION |
 |:---:|:---:|:---:|
-| `Full-Stack Developer` | `4th Year, BSIT` | `National University Manila` |
+| `Full-Stack Developer` | `4th Year, BSIT-MWA` | `National University Manila` |
 
 </div>
 
