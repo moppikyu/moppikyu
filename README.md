@@ -79,7 +79,7 @@ I'm currently building the **backend alert pipeline and frontend dashboard** for
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=moppikyu&background=121212&stroke=D9455F&ring=3DA9A0&fire=3DA9A0&currStreakLabel=D9455F&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" />
+<img src="https://raw.githubusercontent.com/moppikyu/moppikyu/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
