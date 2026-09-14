@@ -74,11 +74,6 @@ I'm currently building the **backend alert pipeline and frontend dashboard** for
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moppikyu&show_icons=true&bg_color=121212&title_color=D9455F&icon_color=D9455F&text_color=c9d1d9&border_color=30363d" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moppikyu&layout=compact&bg_color=121212&title_color=D9455F&text_color=c9d1d9&border_color=30363d" height="165" />
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/moppikyu/moppikyu/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
