@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: moppikyu
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=D9455F&color_dots=121212,1f2937,3DA9A0,D9455F,ff6b81
+            dist/github-contribution-grid-snake.svg?color_snake=%23D9455F&color_dots=%23161b22,%231f2937,%233DA9A0,%23D9455F,%23ff6b81
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
