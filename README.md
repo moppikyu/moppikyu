@@ -98,7 +98,7 @@ Issued May 2026 · Expires May 2031 · Credential ID `MH6k-s4UH`
 
 <br/>
 
-## Connect With Me
+## Connect With Me for Business/Work
 
 <div align="center">
 
